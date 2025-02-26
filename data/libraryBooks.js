@@ -1,8 +1,8 @@
 export const libraryBooks = [
   {
-    title: "Langga",
-    status: "In relationship in Joemari Obrial",
-    author: "Sathya Kilat",
+    title: "Reading in Philippine History",
+    status: "Available",
+    author: "Sath",
     imageUrl: "/assets/images/img1.jpg",
   },
   {

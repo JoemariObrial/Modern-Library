@@ -21,6 +21,7 @@ export default function TableMain() {
             <TableHead className="w-[200px]">Book</TableHead>
             <TableHead className="w-[150px]">Status</TableHead>
             <TableHead className="w-[150px]">Author</TableHead>
+            <TableHead className="w-[150px]">Action</TableHead>
           </TableRow>
         </TableHeader>
         <TableBody>
